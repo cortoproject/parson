@@ -1,0 +1,13 @@
+{
+    "id": "parson",
+    "type": "package",
+    "value": {
+        "description": "Parson JSON parser",
+        "author": "Krzysztof Gabis",
+        "repository": "https://github.com/kgabis/parson",
+        "license": "MIT",
+        "version": "1.0.0",
+        "language": "c",
+        "managed": false
+    }
+}
