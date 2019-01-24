@@ -6,8 +6,6 @@
         "author": "Krzysztof Gabis",
         "repository": "https://github.com/kgabis/parson",
         "license": "MIT",
-        "version": "1.0.0",
-        "language": "c",
-        "managed": false
+        "version": "1.0.0"
     }
 }
